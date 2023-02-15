@@ -74,7 +74,7 @@ cd ~/catkin_ws/
 catkin build
 source devel/setup.bash
 cd src
-git clone https://github.com/sumedhreddy90/DeepRL-Planning.git
+git clone https://github.com/Ashutosh1510/DeepRL_Robot_Nav
 ```
 ## Start the Navigation
 
